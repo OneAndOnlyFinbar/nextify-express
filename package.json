@@ -1,0 +1,16 @@
+{
+  "name": "nextify-express",
+  "version": "1.0.0",
+  "description": "A module to bring next/react like routing to express.",
+  "main": "./lib/index.js",
+  "keywords": [
+    "next",
+    "express",
+    "nextify",
+    "nextify-express",
+    "react",
+    "routing"
+  ],
+  "author": "Finbar <finbar@finbar.xyz> (https://github.com/oneandonlyfinbar)",
+  "license": "ISC"
+}
