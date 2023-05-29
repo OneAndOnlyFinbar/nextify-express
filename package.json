@@ -12,5 +12,8 @@
     "routing"
   ],
   "author": "Finbar <finbar@finbar.xyz> (https://github.com/oneandonlyfinbar)",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
 }

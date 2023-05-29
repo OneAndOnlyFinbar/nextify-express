@@ -1,4 +1,7 @@
 src/
 test/
-.gitignore
+node_modules/
 .git/
+.gitignore
+yarn.lock
+tsconfig.json
