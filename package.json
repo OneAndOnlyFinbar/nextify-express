@@ -1,6 +1,6 @@
 {
   "name": "nextify-express",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A module to bring next/react like routing to express.",
   "main": "./lib/index.js",
   "keywords": [
